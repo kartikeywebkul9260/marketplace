@@ -10,9 +10,10 @@ return [
         'key'  => 'marketplace.settings',
         'name' => 'marketplace::app.admin.system.settings.title',
         'icon' => 'settings/settings.svg',
+        'info' => 'marketplace::app.admin.system.settings.info',
         'sort' => 1,
     ], [
-        'key'    => 'marketplace.settings.info',
+        'key'    => 'marketplace.settings.information',
         'name'   => 'marketplace::app.admin.system.settings.module-info-title',
         'info'   => 'marketplace::app.admin.system.settings.module-info-desc',
         'sort'   => 1,
